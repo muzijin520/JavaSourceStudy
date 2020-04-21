@@ -15,5 +15,6 @@ public class Main {
         map.put("K3",3);
         map.put("K4",4);
         map.put("K5",5);
+        System.out.println(map);
     }
 }
