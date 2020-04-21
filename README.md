@@ -1,2 +1,3 @@
 # JavaSourceStudy
 基于JDK8和idea的源码阅读环境
+第一次运行的时候需要编译class，所以会比较慢一点
