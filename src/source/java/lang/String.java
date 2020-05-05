@@ -25,6 +25,8 @@
 
 package java.lang;
 
+import com.sun.org.apache.bcel.internal.generic.RETURN;
+
 import java.io.ObjectStreamField;
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
